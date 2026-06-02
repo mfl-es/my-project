@@ -6,5 +6,5 @@ function gps () {
 }
 
 function camera() {
-    //Desarrollo comenzado
+    //Desarrollo terminado
 }
