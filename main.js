@@ -7,4 +7,5 @@ function gps () {
 
 function camera() {
     //Desarrollo terminado
+    //Cambios stash
 }
